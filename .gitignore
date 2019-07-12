@@ -1,0 +1,6 @@
+#*.txt
+#*.md
+*.png
+style/*.txt
+compress/*
+compress/
